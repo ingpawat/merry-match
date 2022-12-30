@@ -2,6 +2,8 @@
 
 Merry Match is a new generation of online dating website for everyone.
 
+Merry Match is a dating web application platform that was developed by a team of skilled professionals in three sprints over the course of one month. I was responsible for working on the front-end portion of the project using technologies such as React, Javascript, and TailwindCSS. The project utilized modern frameworks and databases such as Vite, ChakraUI, Axios, NodeJS, and PostgreSQL to ensure a seamless and efficient user experience. Unfortunately, the project has not yet been deployed.
+
 <img width='900px' src='https://res.cloudinary.com/dlyijmtfx/image/upload/v1670824214/MerryMatch/logo_ush3hc.svg'></img>
 
 
